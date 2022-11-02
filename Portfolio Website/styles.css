@@ -1,3 +1,15 @@
-h1, h2 {
+h1, h3 {
     text-align: center;
+}
+/* to change background color use body element */
+body{
+    background-color: wheat;
+}
+/*the class name is title, and covers the div with title attribute*/
+/*the class name is used so as to style different divs*/
+.title{
+    width: 80%;
+    background-color: turquoise;
+    margin-left: auto;
+    margin-right: auto;
 }
